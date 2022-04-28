@@ -6,5 +6,5 @@ void test() {
 }
 
 void test2() {
-    
+    run_something2();
 }
